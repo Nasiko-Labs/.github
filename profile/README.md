@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://nasiko.com" target="_blank"><img src="/Images/Nasiko_Banner.png"></a>
+    <a href="https://nasiko.com" target="_blank"><img src="./Images/Nasiko_Banner.png"></a>
     <br />
     <br />
     <b>Nasiko, the Control Plane for AI Agents: An open-source platform that empowers developers to build, deploy, and manage intelligent AI agents at scale. Use comprehensive agent orchestration, monitoring, and management tools, all from a single place. Built with the open source community and optimized for developer experience in the coding languages you love.</b>
@@ -15,7 +15,7 @@
 </ul>
 
 <br />
-<a href="https://github.com/Nasiko-Labs"><img height=auto src="/Images/Nasiko_Dashboard.png"></a>
+<a href="https://github.com/Nasiko-Labs"><img height=auto src="./Images/Nasiko_Dashboard.png"></a>
 
 <h2>Connect With Us 🫂</h2>
 <ul>
