@@ -2,7 +2,9 @@
     <a href="https://nasiko.com" target="_blank"><img src="./Images/Nasiko_Banner.png"></a>
     <br />
     <br />
-    <b>Nasiko, the Control Plane for AI Agents: An open-source platform that empowers developers to build, deploy, and manage intelligent AI agents at scale. Use comprehensive agent orchestration, monitoring, and management tools, all from a single place. Built with the open source community and optimized for developer experience in the coding languages you love.</b>
+    <b>Nasiko is the OpenRuntime for agents, coding harnesses, frameworks and tools: Every other runtime is a destination — you move your agent into it, and you get visibility into whatever you moved. Nasiko is the opposite. Install the CLI and it discovers the coding agents already running on your machine — Claude Code, Cursor, Codex, OpenCode — and brings each one under a single cost model in one step.
+
+From there you get spend attributed across vendors in one schema, model routing at clean boundaries with fail-open fallback, and an MCP gateway that decides which tools each agent can reach. The same command that runs on a laptop runs across an estate.</b>
 </p>
 
 <h2>Learn About Nasiko 🧑‍🎓</h2>
