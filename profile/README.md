@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://nasiko.com" target="_blank"><img src="./nasiko-runtime-banner.png"></a>
+    <a href="https://nasiko.com" target="_blank"><img src=".github/profile/Images/nasiko-runtime-banner.png"></a>
     <br />
     <br />
     <b>Nasiko is the OpenRuntime for agents, coding harnesses, frameworks and tools: Every other runtime is a destination — you move your agent into it, and you get visibility into whatever you moved. Nasiko is the opposite. Install the CLI and it discovers the coding agents already running on your machine — Claude Code, Cursor, Codex, OpenCode — and brings each one under a single cost model in one step.
