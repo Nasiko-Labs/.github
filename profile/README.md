@@ -1,28 +1,19 @@
-<p align="center">
-    <a href="https://nasiko.com" target="_blank"><img src="./Images/nasiko-runtime-banner.png"></a>
-    <br />
-    <br />
-    <b>Nasiko is the OpenRuntime for agents, coding harnesses, frameworks and tools: Every other runtime is a destination — you move your agent into it, and you get visibility into whatever you moved. Nasiko is the opposite. Install the CLI and it discovers the coding agents already running on your machine — Claude Code, Cursor, Codex, OpenCode — and brings each one under a single cost model in one step.
+[![Nasiko runtime banner](./Images/nasiko-runtime-banner.png)](https://nasiko.com)
 
-From there you get spend attributed across vendors in one schema, model routing at clean boundaries with fail-open fallback, and an MCP gateway that decides which tools each agent can reach. The same command that runs on a laptop runs across an estate.</b>
-</p>
+**Nasiko, the OpenRuntime for agents:** An open runtime for coding agents, harnesses, frameworks, and tools. Install the CLI and discover the agents already running on your machine, including Claude Code, Cursor, Codex, and OpenCode, all under a single cost model. Attribute spend across vendors in a single schema, route models at clean boundaries with a fail-open fallback, and control agent tool access through an MCP gateway. From your laptop to an entire estate, run your agents through the same runtime.
 
-<h2>Learn About Nasiko 🧑‍🎓</h2>
+## Learn About Nasiko 🧑‍🎓
 
-<ul>
-    <li>Learn how to build with Nasiko through the <a href="http://docs.nasiko.com/intro">Nasiko Docs</a> 📚 </li>
-    <li>Find tutorials and insights on Nasiko's services at <a href="https://app.daily.dev/squads/nasiko">Nasiko's Blogs</a> 📝</li>
-    <li>View our livestreams and video content at the <a href="https://www.youtube.com/@nasikolabs">Nasiko YouTube channel</a> 📺</li>
-    <li>Discover our community-made projects and integrations at the <a href="https://github.com/Nasiko-Labs/nasiko">Nasiko repository</a> 💻</li>
-</ul>
+- Learn how to build with Nasiko through the [Nasiko Docs](https://docs.nasiko.com/) 📚
+- Find tutorials and insights on Nasiko's services at [Nasiko's Blogs](https://www.nasiko.com/blogs) 📝
+- View our livestreams and video content at the [Nasiko YouTube channel](https://www.youtube.com/@nasikolabs) 📺
+- Discover our community-made projects and integrations at the [Nasiko repository](https://github.com/Nasiko-Labs/nasiko)
 
-<br />
-<a href="https://github.com/Nasiko-Labs"><img height=auto src="./Images/Nasiko_Dashboard.png"></a>
+[![Nasiko Dashboard](./Images/Nasiko_Dashboard.png)](https://github.com/Nasiko-Labs)
 
-<h2>Connect With Us 🫂</h2>
-<ul>
-    <li>Star 🌟 the <a href="https://github.com/Nasiko-Labs/nasiko/stargazers">main Nasiko repo</a> 🖥️</li>
-    <li>Join our <a href="https://discord.gg/DTNPxhDjD">Discord community</a> 👨‍👩‍👧‍👦</li>
-    <li>Follow us on <a href="https://x.com/Nasikolabs">X</a> 🐤</li>
-    <li>Apply to Nasiko through the <a href="https://www.nasiko.com/careers">Nasiko Careers page (We're HIRING!)</a> 🧑‍💻</li>
-</ul>
+## Connect With Us 🫂
+
+- Star 🌟 the [main Nasiko repo](https://github.com/Nasiko-Labs/nasiko) 🖥️
+- Join our [Discord community](https://discord.gg/qhxEaFKwjU) 👨‍👩‍👧‍👦
+- Follow us on [X](https://x.com/Nasikolabs) 🐤
+- Apply to Nasiko through the [Nasiko Careers page (We're HIRING!)](https://www.nasiko.com/careers) 🧑‍💻
